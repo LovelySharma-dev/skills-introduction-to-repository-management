@@ -1,0 +1,10 @@
+# Assign ownership of project areas to collaborators
+
+# Website documentation
+*.md @LovelySharma-dev
+
+# Application source code
+/src/ @LovelySharma-dev
+
+# Configuration files
+.github/ @LovelySharma-dev
